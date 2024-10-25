@@ -1,0 +1,69 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+.DS_Store
+*.sqlite3
+*.env
+
+# Django Migrations #
+*/migrations/*.py
+*/migrations/*.pyc
+
+# Django static files #
+staticfiles/
+static/
+
+# Django translations #
+*.mo
+*.po
+
+# Django environment settings #
+.env
+.env.*
+
+# Virtual Environments #
+venv/
+env/
+ENV/
+
+# macOS #
+.DS_Store
+
+# Node Modules #
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+
+# React Build #
+build/
+dist/
+
+# Coverage reports #
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# VS Code settings #
+.vscode/
+.settings/
+.idea/
+*.code-workspace
+
+# JetBrains #
+.idea/
+*.iml
