@@ -1,6 +1,6 @@
 
-# Zakat-Calculator
-Zakat Calculator With Python Django 5.1 framework
+# Django-ViteJS
+Django-ViteJS project With Python Django 5.1 framework and React JS framework and Vite JS
 
 ### Technologies We used
 - ![Python Icon](https://img.icons8.com/color/100/000000/python.png) **Python**
